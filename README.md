@@ -13,7 +13,7 @@ A simple command-line tool that sends user prompts to OpenAI's GPT-3.5 API and r
 ### 1. Clone the Repository
 
 ```
-git clone <repo-url>
+git clone [https://github.com/natheerkhalil/ai-prompt-assistant)
 cd ai_prompt_assistant
 ```
 
@@ -32,6 +32,6 @@ OPENAI_API_KEY=your_openai_api_key_here
 ## Usage
 Type a message at the prompt and get a response from GPT-3.5. Type ```exit``` t quit.
 ```
-You: what's the capital of France?
+You: What's the capital of France?
 AI: The capital of France is Paris
 ```
